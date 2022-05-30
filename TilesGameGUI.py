@@ -9,7 +9,7 @@ con=[0,0,0,0,0,0]
 char= ['$', '#', '%', '@','?','+']
 
 root= Tk()
-root.title("Tic Tac Toe")
+root.title("Tile Flipping Game")
 root.geometry("1000x1000")
 
 frame= Frame(root, bg='green')
